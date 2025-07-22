@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/joaothedog.github.io/joao/static/css/main.7fbca2b7.css",
-    "main.js": "/joaothedog.github.io/joao/static/js/main.3ffc4be1.js",
-    "static/media/spread.png": "/joaothedog.github.io/joao/static/media/spread.2254ac296e86ef33e272.png",
-    "static/media/landing.png": "/joaothedog.github.io/joao/static/media/landing.62f1ccb0c4782f1e513d.png",
-    "static/media/twitterbot.png": "/joaothedog.github.io/joao/static/media/twitterbot.ede5c44ed19e80d37327.png",
-    "static/media/horizontalimg.jpg": "/joaothedog.github.io/joao/static/media/horizontalimg.7347ab3a374e3933e41f.jpg",
-    "static/media/verticalimg2.jpg": "/joaothedog.github.io/joao/static/media/verticalimg2.0c8468e4eda6e8657352.jpg",
-    "static/media/verticalimg.jpg": "/joaothedog.github.io/joao/static/media/verticalimg.8b3e80c3c3d2b263b601.jpg",
-    "index.html": "/joaothedog.github.io/joao/index.html",
-    "main.7fbca2b7.css.map": "/joaothedog.github.io/joao/static/css/main.7fbca2b7.css.map",
-    "main.3ffc4be1.js.map": "/joaothedog.github.io/joao/static/js/main.3ffc4be1.js.map"
+    "main.css": "/joao/static/css/main.7fbca2b7.css",
+    "main.js": "/joao/static/js/main.f5711808.js",
+    "static/media/spread.png": "/joao/static/media/spread.2254ac296e86ef33e272.png",
+    "static/media/landing.png": "/joao/static/media/landing.62f1ccb0c4782f1e513d.png",
+    "static/media/twitterbot.png": "/joao/static/media/twitterbot.ede5c44ed19e80d37327.png",
+    "static/media/horizontalimg.jpg": "/joao/static/media/horizontalimg.7347ab3a374e3933e41f.jpg",
+    "static/media/verticalimg2.jpg": "/joao/static/media/verticalimg2.0c8468e4eda6e8657352.jpg",
+    "static/media/verticalimg.jpg": "/joao/static/media/verticalimg.8b3e80c3c3d2b263b601.jpg",
+    "index.html": "/joao/index.html",
+    "main.7fbca2b7.css.map": "/joao/static/css/main.7fbca2b7.css.map",
+    "main.f5711808.js.map": "/joao/static/js/main.f5711808.js.map"
   },
   "entrypoints": [
     "static/css/main.7fbca2b7.css",
-    "static/js/main.3ffc4be1.js"
+    "static/js/main.f5711808.js"
   ]
 }
