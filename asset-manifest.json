@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/joao/static/css/main.e6c13ad2.css",
-    "main.js": "/joao/static/js/main.04f5b51a.js",
-    "static/js/453.a113d8f4.chunk.js": "/joao/static/js/453.a113d8f4.chunk.js",
-    "static/media/hero-image.png": "/joao/static/media/hero-image.8e4418c021318a6f2bce.png",
-    "static/media/site.png": "/joao/static/media/site.aa9606adc5936dc41956.png",
-    "static/media/social-media.png": "/joao/static/media/social-media.2bfd55f549437b693f32.png",
-    "static/media/video.png": "/joao/static/media/video.da543160525a30e1bd95.png",
-    "static/media/logo.png": "/joao/static/media/logo.7c7700c4ec0c8004def8.png",
-    "index.html": "/joao/index.html",
-    "main.e6c13ad2.css.map": "/joao/static/css/main.e6c13ad2.css.map",
-    "main.04f5b51a.js.map": "/joao/static/js/main.04f5b51a.js.map",
-    "453.a113d8f4.chunk.js.map": "/joao/static/js/453.a113d8f4.chunk.js.map"
+    "main.css": "/joaothedog.github.io/joao/static/css/main.7fbca2b7.css",
+    "main.js": "/joaothedog.github.io/joao/static/js/main.3ffc4be1.js",
+    "static/media/spread.png": "/joaothedog.github.io/joao/static/media/spread.2254ac296e86ef33e272.png",
+    "static/media/landing.png": "/joaothedog.github.io/joao/static/media/landing.62f1ccb0c4782f1e513d.png",
+    "static/media/twitterbot.png": "/joaothedog.github.io/joao/static/media/twitterbot.ede5c44ed19e80d37327.png",
+    "static/media/horizontalimg.jpg": "/joaothedog.github.io/joao/static/media/horizontalimg.7347ab3a374e3933e41f.jpg",
+    "static/media/verticalimg2.jpg": "/joaothedog.github.io/joao/static/media/verticalimg2.0c8468e4eda6e8657352.jpg",
+    "static/media/verticalimg.jpg": "/joaothedog.github.io/joao/static/media/verticalimg.8b3e80c3c3d2b263b601.jpg",
+    "index.html": "/joaothedog.github.io/joao/index.html",
+    "main.7fbca2b7.css.map": "/joaothedog.github.io/joao/static/css/main.7fbca2b7.css.map",
+    "main.3ffc4be1.js.map": "/joaothedog.github.io/joao/static/js/main.3ffc4be1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.04f5b51a.js"
+    "static/css/main.7fbca2b7.css",
+    "static/js/main.3ffc4be1.js"
   ]
 }
